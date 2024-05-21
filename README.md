@@ -1,7 +1,9 @@
-Setting Up
+Secured
 
 Project in C
 
-note : 1 / 20 , crash
+note : 14,1 / 20 , crash
 
-create an algorithm to find the largest square in an array
+
+✓ Developing your own hash function
+✓ Creating your own hash table
